@@ -1,0 +1,19 @@
+* StringBuilder tiene mucho mejor rendimiento que la concatenacion por el signo +
+
+* cuando se usan arraylist, lo mejor es darle una capacidad inicial en caso de conocer la cantidad de datos
+que se ingresaran, puesto que esto nos ayuda a tener un mejor rendimiento que cuando no se coloca una
+capacidad inicial en el arraylist
+
+* arraylist y linkedlist, el arraylist es mas rapido que el linkedlist para acceder a elementos aleatorios de
+la lista, mientras que el linkedlist es mucho mas rapido para agregar y remover elementos de la lista, un 
+dato mas es que si no es especifica que tipo de variable se guardara en el list, se podra guardar diferentes
+tipos de variables (String, Int, Double...)
+
+* El hashmap es como tener un array solo que en lugar de guardar solo un valor en una posicion, tambien se
+guardara la forma de buscar esa posicion, usando una key la cual ayudaria a encontrar mas rapidamente el
+dato guardado.
+
+* HashSet nos permite introducir elementos a una lista con un orden impredecible y que estos elementos
+ no puedan ser repetidos
+
+ w
